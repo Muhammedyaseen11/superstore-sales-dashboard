@@ -23,7 +23,6 @@ This project analyzes Superstore sales data using Excel. The goal was to design 
 - Enabled dynamic filtering for better decision-making
 
 ## 📷 Screenshots
-(Add dashboard screenshots here, e.g.)
 ![Dashboard Overview](screenshots/dashboard.png)
 
 ## ▶️ How to Use
